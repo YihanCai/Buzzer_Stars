@@ -1,0 +1,10 @@
+(1) 创建一个仓库，但是不要添加readme
+(2) 本地创建一个同名文件夹，并把所有文件都复制进去
+(3) vscode打开这个文件夹，打开终端
+(4) ping github.com测试一下终端可不可以访问github
+(5) git init
+() git add .
+() git commit -m "Initial commit"
+(7) git branch -M main
+(6) git remote add origin https://github.com/YihanCai/仓库名字.git 注意仓库名字要改成对应的
+() git push -u origin main
